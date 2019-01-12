@@ -1,0 +1,11 @@
+id,subj_t1,subj_label
+IBSR_01,/home/maia_kbf/MISA_FIT/FinalData/TrainingSet/IBSR_01.nii,/home/maia_kbf/MISA_FIT/FinalData/TrainingSet/IBSR_01_seg.nii
+IBSR_03,/home/maia_kbf/MISA_FIT/FinalData/TrainingSet/IBSR_03.nii,/home/maia_kbf/MISA_FIT/FinalData/TrainingSet/IBSR_03_seg.nii
+IBSR_04,/home/maia_kbf/MISA_FIT/FinalData/TrainingSet/IBSR_04.nii,/home/maia_kbf/MISA_FIT/FinalData/TrainingSet/IBSR_04_seg.nii
+IBSR_05,/home/maia_kbf/MISA_FIT/FinalData/TrainingSet/IBSR_05.nii,/home/maia_kbf/MISA_FIT/FinalData/TrainingSet/IBSR_05_seg.nii
+IBSR_06,/home/maia_kbf/MISA_FIT/FinalData/TrainingSet/IBSR_06.nii,/home/maia_kbf/MISA_FIT/FinalData/TrainingSet/IBSR_06_seg.nii
+IBSR_07,/home/maia_kbf/MISA_FIT/FinalData/TrainingSet/IBSR_07.nii,/home/maia_kbf/MISA_FIT/FinalData/TrainingSet/IBSR_07_seg.nii
+IBSR_08,/home/maia_kbf/MISA_FIT/FinalData/TrainingSet/IBSR_08.nii,/home/maia_kbf/MISA_FIT/FinalData/TrainingSet/IBSR_08_seg.nii
+IBSR_09,/home/maia_kbf/MISA_FIT/FinalData/TrainingSet/IBSR_09.nii,/home/maia_kbf/MISA_FIT/FinalData/TrainingSet/IBSR_09_seg.nii
+IBSR_16,/home/maia_kbf/MISA_FIT/FinalData/TrainingSet/IBSR_16.nii,/home/maia_kbf/MISA_FIT/FinalData/TrainingSet/IBSR_16_seg.nii
+IBSR_18,/home/maia_kbf/MISA_FIT/FinalData/TrainingSet/IBSR_18.nii,/home/maia_kbf/MISA_FIT/FinalData/TrainingSet/IBSR_18_seg.nii

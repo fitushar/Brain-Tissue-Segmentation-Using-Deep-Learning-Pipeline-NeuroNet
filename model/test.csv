@@ -1,0 +1,10 @@
+id,t1,spm_tissue
+2,/home/maia_kbf/MISA_FIT/Preprocessing/Test_Set/IBSR_02.nii,/home/maia_kbf/MISA_FIT/Preprocessing/Test_Set/IBSR_02_seg.nii
+10,/home/maia_kbf/MISA_FIT/Preprocessing/Test_Set/IBSR_10.nii,/home/maia_kbf/MISA_FIT/Preprocessing/Test_Set/IBSR_10_seg.nii
+15,/home/maia_kbf/MISA_FIT/Preprocessing/Test_Set/IBSR_15.nii,/home/maia_kbf/MISA_FIT/Preprocessing/Test_Set/IBSR_15_seg.nii
+11,/home/maia_kbf/MISA_FIT/Preprocessing/Validation_Set/IBSR_11.nii,/home/maia_kbf/MISA_FIT/Preprocessing/Validation_Set/IBSR_11_seg.nii
+12,/home/maia_kbf/MISA_FIT/Preprocessing/Validation_Set/IBSR_12.nii,/home/maia_kbf/MISA_FIT/Preprocessing/Validation_Set/IBSR_12_seg.nii
+13,/home/maia_kbf/MISA_FIT/Preprocessing/Validation_Set/IBSR_13.nii,/home/maia_kbf/MISA_FIT/Preprocessing/Validation_Set/IBSR_13_seg.nii
+14,/home/maia_kbf/MISA_FIT/Preprocessing/Validation_Set/IBSR_14.nii,/home/maia_kbf/MISA_FIT/Preprocessing/Validation_Set/IBSR_14_seg.nii
+17,/home/maia_kbf/MISA_FIT/Preprocessing/Validation_Set/IBSR_17.nii,/home/maia_kbf/MISA_FIT/Preprocessing/Validation_Set/IBSR_17_seg.nii
+

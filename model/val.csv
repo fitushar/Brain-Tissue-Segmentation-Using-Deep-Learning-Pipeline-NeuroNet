@@ -1,0 +1,6 @@
+id,subj_t1,subj_label
+IBSR_11,/home/maia_kbf/MISA_FIT/FinalData/ValidationSet/IBSR_11.nii,/home/maia_kbf/MISA_FIT/FinalData/ValidationSet/IBSR_11_seg.nii
+IBSR_12,/home/maia_kbf/MISA_FIT/FinalData/ValidationSet/IBSR_12.nii,/home/maia_kbf/MISA_FIT/FinalData/ValidationSet/IBSR_12_seg.nii
+IBSR_13,/home/maia_kbf/MISA_FIT/FinalData/ValidationSet/IBSR_13.nii,/home/maia_kbf/MISA_FIT/FinalData/ValidationSet/IBSR_13_seg.nii
+IBSR_14,/home/maia_kbf/MISA_FIT/FinalData/ValidationSet/IBSR_14.nii,/home/maia_kbf/MISA_FIT/FinalData/ValidationSet/IBSR_14_seg.nii
+IBSR_17,/home/maia_kbf/MISA_FIT/FinalData/ValidationSet/IBSR_17.nii,/home/maia_kbf/MISA_FIT/FinalData/ValidationSet/IBSR_17_seg.nii
