@@ -8,3 +8,22 @@ Automatic segmentation of MRI brain images is one of the vital steps for quantit
 In this work two different pre-processing pipelines were implemented. To see the effect on the performance of the deep CNN with different pre-processing scheme. Figure  below shown the overview of the pre-processing pipelines.
 
 ![Pre_Processing pipeline](https://github.com/fitushar/Brain-Tissue-Segmentation-Using-Deep-Learning-Pipeline-NeuroNet/blob/master/Images/Preprocessing_pipelines.PNG)
+
+# How to Run the Code
+To run and model and re-produce the best results thins steps need to perform.
+
+1.	Run Notebook “MISA_Project_PreProcesing_Step(1)_Registration.ipynb” to perform the registration of the Volumes to MNI template.
+2.	Run Notebook “MISA_Project_PreProcesing_Step(2)_Normalization.ipynb” to Perform Preprocessing (Pre-processing pipeline-2 mentioned in report) and to create the excel files that containing the path of the training , validation and testing data. Network Read the data from excel files that have the path of the data.
+3.	Folder “Model” Contain the pretrained model, Download the Weights from here https://goo.gl/VmhGYc
+4.	To run the code please the command “python train.py --config config_spm_tissue.json”
+5.	In the file “config_spm_tissue.json” to maintain and configure model
+
+      model_path": put ur model weights path (spm_tissue folder)
+
+6.	To prepare the Testing Data and After segmentation to bring it back to the original spacing use this Notebook “PreparingTestingData.ipynb”
+7.	To run the testing ““python deploy.py --config config_spm_tissue.json””
+8.	Finaly to Compute the Dice and Box plot Run the “Evaluation_MISA_Project.ipynb”
+
+
+
+
