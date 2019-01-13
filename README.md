@@ -28,4 +28,6 @@ To run and model and re-produce the best results thins steps need to perform.
 
 
 ![dsc](https://github.com/fitushar/Brain-Tissue-Segmentation-Using-Deep-Learning-Pipeline-NeuroNet/blob/master/Images/5_2.png)
+![overlay](https://github.com/fitushar/Brain-Tissue-Segmentation-Using-Deep-Learning-Pipeline-NeuroNet/blob/master/Images/overlay_val14.png)
+
 
