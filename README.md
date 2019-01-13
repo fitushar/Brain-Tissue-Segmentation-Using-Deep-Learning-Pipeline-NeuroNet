@@ -27,5 +27,5 @@ To run and model and re-produce the best results thins steps need to perform.
 8.	Finaly to Compute the Dice and Box plot Run the “Evaluation_MISA_Project.ipynb”
 
 
-
+![dsc](https://github.com/fitushar/Brain-Tissue-Segmentation-Using-Deep-Learning-Pipeline-NeuroNet/blob/master/Images/5_2.png)
 
