@@ -9,6 +9,8 @@ In this work two different pre-processing pipelines were implemented. To see the
 
 ![Pre_Processing pipeline](https://github.com/fitushar/Brain-Tissue-Segmentation-Using-Deep-Learning-Pipeline-NeuroNet/blob/master/Images/Preprocessing_pipelines.PNG)
 
+![Pre_Processing pipeline](https://github.com/fitushar/Brain-Tissue-Segmentation-Using-Deep-Learning-Pipeline-NeuroNet/blob/master/Images/example_preprpcessed.png)
+
 # How to Run the Code
 To run and model and re-produce the best results thins steps need to perform.
 
