@@ -127,7 +127,7 @@ def train(args, config):
 
     # Set up a data reader to handle the file i/o.
     reader_params = {
-        'n_examples':50,
+        'n_examples':5,
         'example_size': [128, 128, 128],
         'extract_examples': True,
         'protocols': config["protocols"]}
