@@ -5,7 +5,11 @@ If our work help in your task or project please site the work at https://ieeexpl
 
 # Citation
 ```
-F. I. Tushar, B. Alyafi, M. K. Hasan and L. Dahal, "Brain Tissue Segmentation Using NeuroNet With Different Pre-processing Techniques," 2019 Joint 8th International Conference on Informatics, Electronics & Vision (ICIEV) and 2019 3rd International Conference on Imaging, Vision & Pattern Recognition (icIVPR), Spokane, WA, USA, 2019, pp. 223-227.
+F. I. Tushar, B. Alyafi, M. K. Hasan and L. Dahal, 
+"Brain Tissue Segmentation Using NeuroNet With Different Pre-processing Techniques," 
+2019 Joint 8th International Conference on Informatics, Electronics & Vision (ICIEV) 
+and 2019 3rd International Conference on Imaging, Vision & Pattern Recognition (icIVPR), 
+Spokane, WA, USA, 2019, pp. 223-227.
 ```
 # Overview
 Automatic segmentation of MRI brain images is one of the vital steps for quantitative analysis of brain for further inspection. Since manual segmentation of brain tissues (white matter (WM), gray matter (GM) and cerebrospinal fluid (CSF)) is a time-consuming and tedious task that engages valuable human resources, hence,  automatic brain tissue segmentation draws an enormous amount of attention in medical imaging. In this project, NeuroNet has been adopted to segment the brain which uses Residual Network (ResNet) in encoder and Fully Convolution Network (FCN) in the decoder. To achieve the best performance, various hyper-parameters have been tuned, while, network parameters (kernel and bias) were initialized using the NeuroNet pre-trained model. Different pre-processing pipelines have also been introduced to get best a robust trained model. The performance of the segmented validation images were measured quantitatively using Dice Similarity Co-efficient (DSC) and were reported in the best case as 0.8986±0.0174 for CSF, 0.9412 ± 0.0086 for GM, and 0.9335 ± 0.0166 for WM. We worked out that keeping the original patch size and using histogram preprocessing with 4000 steps had the highest achievable performance.
